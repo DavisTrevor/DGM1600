@@ -1,4 +1,4 @@
-Total Wipes: 11
+Total Wipes: 12
 
 Raid start 5:23 PM
 
@@ -29,3 +29,5 @@ Bruh.
 We got them!
 
 Onto Aggramar!
+
+Aggramar has killed us all.
